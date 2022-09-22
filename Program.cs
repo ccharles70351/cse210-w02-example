@@ -14,7 +14,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             names.ForEach(name => Console.Write(name));
 
-            List<string> stuff = new List<string> {"a", "b", "c", "d"};
+            List<string> stuff = new List<string> {"a", "b", "c"};
 
             int x = 5;
             int y = 7;
